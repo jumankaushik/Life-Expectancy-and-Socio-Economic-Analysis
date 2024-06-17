@@ -15,7 +15,7 @@ guide policy decisions. By examining correlations between life expectancy and va
 dimensions, our project serves as a practical tool for informed decision-making in public health,
 environmental sustainability, education, economics, labor markets, governance, sanitation, and
 disease prevention. The concise yet comprehensive approach ensures actionable insights for
-improving the overall quality of life.
+improving the overall quality of life!
 
 ### Introduction
 Life expectancy at birth, a key metric in assessing population health, reflects the anticipated
